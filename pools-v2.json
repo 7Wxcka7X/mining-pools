@@ -1758,5 +1758,15 @@
     ],
     "tags": ["Innopolis", "Innopolis.tech"],
     "link": "https://innopolis.tech/"
+  },
+  {
+    "id": 163,
+    "name": "BTCLab",
+    "addresses": [],
+    "tags": [
+      "BTCLab",
+      "BTCLab.dev"
+    ],
+    "link": "https://btclab.dev/"
   }
 ]
